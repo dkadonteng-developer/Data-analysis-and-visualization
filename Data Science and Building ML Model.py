@@ -6,7 +6,7 @@
 
 import pandas as pd
 # Load the dataset
-df = pd.read_csv('/Users/KNUST/Downloads/dataset.csv')
+df = pd.read_csv('/Users/Derrick/Downloads/dataset.csv')
 
 
 # In[8]:
