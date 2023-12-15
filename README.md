@@ -16,7 +16,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 2. Loads a dataset from a CSV file into a pandas DataFrame:
 ```
-df = pd.read_csv('/Users/KNUST/Downloads/dataset.csv')
+df = pd.read_csv('/Users/Derrick/Downloads/dataset.csv')
 ```
 
 3. Displays the first few rows of the DataFrame:
